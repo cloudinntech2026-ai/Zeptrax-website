@@ -1,0 +1,7 @@
+{
+  "name": "zeptrax-main",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Nothing to build'"
+  }
+}
